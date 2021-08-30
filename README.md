@@ -7,7 +7,7 @@
 MENTORS -
 [Ira McDonald, Till Kamppeter, Michael Sweet, Jai Luthra]
 
-<!--excerpt-->
+-------------------------------------------------------------------------------------------
 
 ### Introduction
 
@@ -51,6 +51,7 @@ Finally, I have merged all my commits for the Scanning part and pushed in one PR
 -------------------------------------------------------------------------------------------
 ### Acknowledgement
 
-I would to thank my mentors Till Kamppeter and Michael Sweet at The Linux Foundation for helping and guiding me throughout the project. Also I would like to thank to my seniors at college for encouraging me. 
+I would to thank my mentors Till Kamppeter and Michael Sweet at The Linux Foundation for helping and guiding me throughout the project. Also I would like to thank to my seniors at college for encouraging me.
+
 -------------------------------------------------------------------------------------------
 
